@@ -11,7 +11,8 @@ To write a program to find the L and U matrix using LU Decomposition of a matrix
 1. import numpy as np
 2. From scipy package import lu
 3. Get input from user
-4. Print the result
+4. Solve using the imported packages
+5. Print the result
 
 
 ## Program:
@@ -49,7 +50,8 @@ To write a program to find the solution of a matrix using LU Decomposition of a 
 1. import numpy as np
 2. From scipy package import lu_factor,lu_solve
 3. Get input from user
-4. Print the result
+4. Solve using the imported packages
+5. Print the result
 
 
 ## Program:
